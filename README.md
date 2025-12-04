@@ -1,6 +1,6 @@
 この歌詞データベースは公開されました
-LRCHubのAPIの使い方は以下の通りです
-APIDoc.md
+LRCHubのAPIの使い方は[こちら](https://github.com/LRCHub/ReadME/blob/main/APIDoc.md)です
+
 
 ---
 # ねいろんの使いかた
